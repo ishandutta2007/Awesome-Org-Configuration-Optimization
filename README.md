@@ -6,10 +6,12 @@
 
 > 🔍 **A curated list of top SaaS products, enterprise platforms, and open-source GitHub projects for SaaS & Salesforce org configuration optimization, technical debt reduction, metadata analysis, configuration drift monitoring, and org health intelligence.**
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jcxxtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Tracked Projects](https://img.shields.io/badge/Tracked%20Tools-25%2B-blueviolet.svg?style=flat-square)](#table-of-contents)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Org-Configuration-Optimization)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ---
 
@@ -32,6 +34,8 @@ This repository tracks the leading **SaaS platforms** and **open-source develope
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architecture: Custom Self-Hosted Org Optimization Stack](#-architecture-custom-self-hosted-org-optimization-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#-disclaimer)
 
 ---
@@ -141,6 +145,22 @@ We welcome contributions from administrators, architects, developers, and platfo
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`
 3. 📝 **Add or update entries**: Ensure SaaS pricing, free tier limits, company scale, and open-source star badges follow existing formatting guidelines.
 4. 📬 **Submit a Pull Request** with a concise description of why the tool provides value to org configuration optimization.
+
+---
+
+## 💖 Support
+
+If you find this repository and curated resources valuable, please consider supporting the project:
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** tools, updates, or benchmark findings.
+- 📢 **Share with your network**—colleagues, Salesforce user groups, and developer communities.
+- ☕ **Buy a coffee / Sponsor**: Support ongoing maintenance directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Org-Configuration-Optimization&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Org-Configuration-Optimization&type=date&legend=top-left)
 
 ---
 
