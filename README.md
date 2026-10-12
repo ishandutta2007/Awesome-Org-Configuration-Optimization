@@ -72,9 +72,9 @@ Entries are sorted in descending order by **Company Valuation / Revenue / Scale*
 
 Open-source utilities empower Salesforce administrators, security engineers, and DevOps architects to build transparent, cost-effective, and fully data-sovereign org analysis workflows.
 
-The repositories below are sorted in descending order by **GitHub Star Count**. Each badge links directly to that repository's stargazers community.
+The repositories below are sorted in descending order by **GitHub Stars_Count**. Each badge links directly to that repository's stargazers community.
 
-| 💻 Repository & Community | ⭐ GitHub Stars | ⚖️ License | 🛠️ Primary Tech Stack | 📖 Description & Optimization Role |
+| 💻 Repository & Community | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Primary Tech Stack | 📖 Description & Optimization Role |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Apache-2.0 | Python / TypeScript | Enterprise-grade business intelligence and dashboard platform; ideal for building long-term org health trends, field usage metrics, and historical metadata drift visualizations. |
 | **[Ansible](https://github.com/ansible/ansible)** | [![Stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers) | GPL-3.0 | Python | Ubiquitous declarative configuration automation engine; utilized alongside integrations like `ansible-inspec` for multi-cloud configuration auditing and compliance workflows. |
@@ -143,7 +143,7 @@ We welcome contributions from administrators, architects, developers, and platfo
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`
-3. 📝 **Add or update entries**: Ensure SaaS pricing, free tier limits, company scale, and open-source star badges follow existing formatting guidelines.
+3. 📝 **Add or update entries**: Ensure SaaS pricing, free tier limits, company scale, and open-source Stars_Badges follow existing formatting guidelines.
 4. 📬 **Submit a Pull Request** with a concise description of why the tool provides value to org configuration optimization.
 
 ---
